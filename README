@@ -7,6 +7,8 @@ i ćwiczenia jak ich używać - przykład :obserwator
 
 GIT:
 * braid for submodules/dependencies management
+* IDE support
+
 
 WORKSHOPS:
 * creating new project in git + adding existing libraries 
